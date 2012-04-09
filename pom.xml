@@ -11,5 +11,9 @@
     <version>1-SNAPSHOT</version>
     <name>Sybila Checkstyle</name>
     <packaging>jar</packaging>
-
+    <scm>
+        <connection>scm:git:git://github.com/sybila/checstyle.git</connection>
+        <developerConnection>scm:git:git@github.com:sybila/checkstyle.git</developerConnection>
+        <url>https://github.com/sybila/checkstyle</url>
+    </scm>
 </project>
