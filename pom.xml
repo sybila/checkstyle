@@ -3,7 +3,7 @@
     <parent>
         <groupId>org.sybila</groupId>
         <artifactId>sybila-parent</artifactId>
-        <version>5-SNAPSHOT</version>
+        <version>5</version>
     </parent>
 
     <artifactId>sybila-build-checkstyle</artifactId>
